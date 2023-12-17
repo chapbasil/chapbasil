@@ -2,6 +2,10 @@
 <a href="https://komarev.com/ghpvc/?username=chapbasil">
 <img src="https://komarev.com/ghpvc/?username=chapbasil&style=flat-square&color=blue" alt=""/>
 </a>
+<a href="https://t.me/lusia_ch">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""/>
+</a>
+
 
 </div>
 <div align="center">
