@@ -17,4 +17,5 @@ hard :hammer_and_wrench:<b>:</b><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4)" title="scikit-learn"  alt="scikit-learn" width="50" height="50"/>&nbsp;
+<img src="https://img2.freepng.ru/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg" title="vba"  alt="vba" width="50" height="50"/>&nbsp;
 </div>
